@@ -1,5 +1,5 @@
-<h1>Hi, I'm Alan!</h1>
-<h2>Currently a student at California State University San Bernardino. Majoring in Information Systems and Technology - CyberSecuirty Concentration. In my last semester!</h2>
+<h1>Hi, My name is Alan Alvarez</h1>
+<h2>I am currently a student at California State University San Bernardino. Majoring in Information Systems and Technology - CyberSecuirty Concentration. In my last semester!</h2>
 
 <h3>👨‍💻 Cybersecurity/IT related projects:</h3>
 
